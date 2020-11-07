@@ -8,7 +8,7 @@ My take on the 1987 Nintendo classic Punch Out game. The idea was to showcase a 
 ## How to Play
 
 <p align="center">
-<img src="https://media4.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif?cid=ecf05e472x8w9x44j1cp82mc9i57gg31kip7xrx6aygmv35k&rid=giphy.gif" width="80%"></p>
+<img src="https://media4.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif?cid=ecf05e472x8w9x44j1cp82mc9i57gg31kip7xrx6aygmv35k&rid=giphy.gif" width="40%"></p>
 
 - You can move the  main character using either wasd or arrow keys to walk across the ring.
 - Use F to strike/punch
