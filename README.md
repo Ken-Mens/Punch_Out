@@ -11,8 +11,8 @@ My take on the 1987 Nintendo classic Punch Out game. The idea was to showcase a 
 <img src="https://media4.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif?cid=ecf05e472x8w9x44j1cp82mc9i57gg31kip7xrx6aygmv35k&rid=giphy.gif" width="40%"></p>
 
 - You can move the  main character using either wasd or arrow keys to walk across the ring.
-- Use F to strike/punch
-- Use G to block/defend
+- Use the F key to strike/punch
+- Use the G key to block/defend
 
 At the top of the screen you should see the UI canvas which shows player and enemy health. Interactive UI includes pause, play, and restart buttons.
 
