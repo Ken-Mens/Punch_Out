@@ -3,7 +3,12 @@
 ## Description
 My take on the 1987 Nintendo classic Punch Out game. The idea was to showcase a clear understanding of mainly player movement and input, enemy ai, animations, UI Canvas, and Sound FX.
 
+## Project Setup
+The game is playable via Windows or OS.
 
+- Download build for Windows or Mac [Here]( https://github.com/Ken-Mens/Punch_Out/tree/main/Assets/Builds).
+- Open Menu Scene first once build has finished installing.
+- Launch Round One Scene. 
 
 ## How to Play
 
