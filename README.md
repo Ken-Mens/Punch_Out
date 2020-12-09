@@ -15,7 +15,7 @@ The game is playable via Windows or OS.
 <p align="center">
 <img src="https://media4.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif?cid=ecf05e472x8w9x44j1cp82mc9i57gg31kip7xrx6aygmv35k&rid=giphy.gif" width="40%"></p>
 
-- You can move the  main character using either wasd or arrow keys to walk across the ring.
+- You can move the  main character using either WASD or arrow keys to walk across the ring.
 - Use the F key to strike/punch
 - Use the G key to block/defend
 
@@ -25,4 +25,4 @@ At the top of the screen you should see the UI canvas which shows player and ene
  Kenneth Mensah - [GitHub](https://github.com/Ken-Mens)
  
 ## License
-Public Domain. No copy write protection.
+Copyright © 2020, [Kenneth Mensah](https://github.com/Ken-Mens).
